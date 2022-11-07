@@ -1,2 +1,1 @@
-getgenv().big
-print(tostring(big))
+print(tostring(getgenv().big))
