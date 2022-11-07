@@ -1,0 +1,2 @@
+getgenv().big
+print(tostring(big))
